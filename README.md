@@ -269,4 +269,6 @@ Corrections to regulatory dates (Article 26, DPDP enforcement, state AI laws) ar
 
 ## About the Author
 
-Sanjay Saini is an Enterprise AI Strategy Director covering AI governance, digital transformation, and regulatory compliance for enterprise audiences. He writes at [agileleadershipdayindia.org](https://agileleadershipdayindia.org).
+I’m Ayush Bisht, a Content Engineer and AI tools specialist passionate about building smart, scalable, and engaging digital experiences. Currently working with AgileWow, I blend content strategy with AI-driven workflows to create efficient, impactful solutions.
+
+[LinkedIn](https://www.linkedin.com/in/ayush-bisht-92abb1315/).
