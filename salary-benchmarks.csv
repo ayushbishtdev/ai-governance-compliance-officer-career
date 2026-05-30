@@ -1,0 +1,20 @@
+geography,market_segment,level,role_title,base_salary_local,total_comp_local,currency,regulated_sector_premium_pct,notes,source_article
+US,Enterprise,IC / Mid,AI Governance Compliance Officer,135000,155000,USD,0,Base only; no bonus or equity included,ai-governance-compliance-officer-career-path-enterprise-playbook
+US,Enterprise,IC / Mid,AI Governance Compliance Officer,162000,195000,USD,0,Upper IC band; 20% bonus assumed,ai-governance-compliance-officer-career-path-enterprise-playbook
+US,Enterprise,Senior / Director,AI Governance Compliance Officer,185000,240000,USD,0,Senior band; 15-20% bonus assumed,ai-governance-compliance-officer-career-path-enterprise-playbook
+US,Enterprise,Director / VP,AI Governance Compliance Officer,285000,370000,USD,0,Upper director band; equity + 25% bonus,ai-governance-compliance-officer-career-path-enterprise-playbook
+US,Regulated (Finance / Pharma),IC / Mid,AI Governance Compliance Officer,155000,185000,USD,15,15-22% regulated sector premium applied to mid band,ai-governance-compliance-officer-career-path-enterprise-playbook
+US,Regulated (Finance / Pharma),Senior / Director,AI Governance Compliance Officer,215000,285000,USD,20,20% regulated sector premium on senior band,ai-governance-compliance-officer-career-path-enterprise-playbook
+US,Enterprise,IC / Mid,AI Audit Engineer,155000,180000,USD,0,Hybrid ML + audit skill requirement,ai-audit-engineer-role-enterprise
+US,Enterprise,Senior,AI Audit Engineer,210000,260000,USD,0,Senior base; regulated sector can exceed 250K total,ai-audit-engineer-role-enterprise
+US,Regulated (Finance / Pharma),Senior,AI Audit Engineer,260000,320000,USD,22,Top of band; heavy regulated sector premium,ai-audit-engineer-role-enterprise
+Germany,Enterprise,Mid,AI Governance Compliance Officer,95000,95000,EUR,0,Total comp; Article 50 premium market,ai-governance-salary-us-india-germany
+Germany,Enterprise,Senior,AI Governance Compliance Officer,130000,130000,EUR,0,Total comp; Frankfurt / Munich typical,ai-governance-salary-us-india-germany
+Germany,Enterprise,Director,AI Governance Compliance Officer,175000,175000,EUR,0,Upper band; banking / automotive bidding,ai-governance-salary-us-india-germany
+Germany,Regulated (Finance),Senior,AI Governance Compliance Officer,150000,150000,EUR,15,Frankfurt banking Article 50 premium,ai-governance-salary-us-india-germany
+Germany,Regulated (Automotive),Senior,AI Governance Compliance Officer,145000,145000,EUR,12,Munich automotive OEM deployers,ai-governance-salary-us-india-germany
+India GCC,Tier-1 GCC (Bengaluru / Hyderabad),Mid,AI Governance Compliance Officer,2800000,2800000,INR,0,Total comp in INR (₹28L); DPDP fluency required,ai-governance-compliance-officer-career-path-enterprise-playbook
+India GCC,Tier-1 GCC (Bengaluru / Hyderabad),Senior,AI Governance Compliance Officer,4500000,4500000,INR,0,Total comp (₹45L); cross-jurisdictional demand,ai-governance-compliance-officer-career-path-enterprise-playbook
+India GCC,Tier-1 GCC (Bengaluru / Hyderabad),Lead / Director,AI Governance Compliance Officer,6500000,6500000,INR,0,Top band (₹65L); dual DPDP + EU AI Act fluency,ai-governance-salary-us-india-germany
+India GCC,Tier-1 GCC,Senior,AI Ethics Consultant,2800000,6500000,INR,0,Internal GCC lead; ₹28L-₹65L range,ai-ethics-consultant-career-path-india
+India,Domestic Enterprise,Mid,AI Ethics Consultant,1500000,2500000,INR,0,Standard domestic roles; not GCC-level (₹15L-₹25L),ai-ethics-consultant-career-path-india
